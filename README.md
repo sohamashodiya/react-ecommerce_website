@@ -1,5 +1,14 @@
 # Bakery E-Commerce Application
 
+## Screenshot
+
+<p align="center">
+  <img src="https://i.imgur.com/f5DOInP.png">
+</p>
+
+## Video
+
+[![Video](https://i.imgur.com/bTwos1e.png)](https://www.youtube.com/watch?v=c-8ugezqV-0)
 ## How to Run
 
 - Clone from Github

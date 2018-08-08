@@ -61,7 +61,7 @@ class CartItemComponent extends Component {
                     <Chip color="primary"  className = {classes.chip} label={removeCartItemIndex + 1} />
                     <Typography variant="body2" className={classes.itemName}>{cartItem.name}</Typography>
                     <Typography variant="body2" className={classes.itemPrice}>${parseFloat(Math.round(cartItem.price * 100) / 100).toFixed(2)}</Typography>
-                    <form className={classes.container} noValidate autoComplete="off">
+                    <form className={classes.container} noValidate autoComplete="off" onSubmit={(e) => {e.preventDefault()}}>
                                 <TextField
                                 label="Quantity"
                                 className={classes.textField}

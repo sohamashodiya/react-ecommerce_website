@@ -69,7 +69,8 @@ const styles = theme => ({
         marginRight: 20
     },
     totalTitle: {
-        marginTop: 5
+        marginTop: 5,
+        marginRight: 10
     },
     badge: {
         top: 1,
