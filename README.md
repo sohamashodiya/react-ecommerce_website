@@ -13,6 +13,7 @@
 
 - Clone from Github
 - Cd to Project Folder
+- Run npm install
 - Run npm start
 
 ## Features
