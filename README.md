@@ -8,7 +8,7 @@
 
 ## Video
 
-[![Video](https://i.imgur.com/bTwos1e.png)](https://www.youtube.com/watch?v=c-8ugezqV-0)
+[![Video](https://i.imgur.com/e12Bhfj.png)](https://www.youtube.com/watch?v=c-8ugezqV-0)
 ## How to Run
 
 - Clone from Github
